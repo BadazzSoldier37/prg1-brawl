@@ -1,7 +1,8 @@
-import random
+spelet_aktivt = True
 
-# Startvärdena väljer du själv.
-spelare_hp = 100
-fiende_hp = 80
+while spelet_aktivt:
+    val = input("Välj: ")
+    if val == "avsluta":
+        spelet_aktivt = False
 
-# Ditt första kort börjar här.
+print("Spelet är slut.")

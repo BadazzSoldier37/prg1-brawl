@@ -1,14 +1,30 @@
 # Planering
+Namn: Ultimate Fight: The Unspeakable, Unexplainable, Unforgettable Brawl of a thousand years!
+Karaktärer
 
-Planera innan du skriver kod. Här bestämmer du vad ditt spel ska vara, hur kampen fungerar och
-vilka kort du bygger det med. Visa planen och korten för läraren innan du börjar koda.
+Patrick stjärna
+
+Hulk Hogan
+
+Phoenix Wright
+
+Eric Cartman
+
+Mattias Flink
+
+Duke Nukem
+
+Dolph Lundgren
+
+Kapten Cool
+
+Yugi Muto
+
+Martin Beck
+
 
 ## Mitt spel
 
-Kraven är samma för alla. Vad gör ditt spel till ditt? Vem är du, vem slåss du mot, och var? Vad
-kan spelaren välja mellan varje tur? Finns det en regel som bara ditt spel har?
-
-Skriv några meningar. Idén får ändras längs vägen, och då skriver du vad du ändrade i faser.md.
 
 ## Fyra frågor planen ska svara på
 
